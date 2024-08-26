@@ -2,3 +2,10 @@ body {
     color:black;
     background:lightpink;
 }
+
+header{
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color:black
+}

@@ -1,11 +1,24 @@
 body {
     color:black;
     background:lightpink;
+    font-family: "Baskervville SC", sans-serif; 
 }
 
 header{
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color:black
+    color:black;
+}
+
+section{
+    background-color:rgb(255, 255, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
